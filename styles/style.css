@@ -210,6 +210,7 @@ footer .footer-buttons{
     margin-top: 2vh;
     margin-bottom: 0;
     font-size: .9rem;
+    margin-right: 2vw;
     
 }
 
@@ -223,5 +224,6 @@ footer .corp-info{
     margin: 0;
     font-size: .9rem;
     color: #444;
+    margin-right: 1vw;
     
 }
