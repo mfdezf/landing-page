@@ -210,6 +210,12 @@ footer .footer-buttons{
     margin-top: 2vh;
     margin-bottom: 0;
     font-size: .9rem;
+    
+}
+
+footer .footer-buttons a{
+    color: black;
+    text-decoration: none;
 }
 
 footer .corp-info{
