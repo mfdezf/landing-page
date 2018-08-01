@@ -71,3 +71,54 @@ body{
     border-radius: 4px;
     border: 0;
 }
+
+#features {
+    /* border: magenta solid 1px; */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 18vh;
+    
+}
+
+.features-text div h2{
+    /* border: green solid 1px; */
+    margin: 0;
+}
+
+.features-text div p{
+    /* border: green solid 1px; */
+    margin-top: .5vh;
+    margin-bottom: 0;
+}
+
+.features-text div {
+    /* border: pink solid 1px; */
+}
+
+.features-icons{
+    /* border: green solid 1px; */
+    display: flex;
+    flex-direction: column;
+    color: darkorange;
+    font-size: 3rem;
+    text-align: center;
+    height: 50vh;
+    width: 15vw;
+    align-content: center;
+    justify-content: space-between;
+}
+
+.features-icons i{
+    /* border: blue solid 1px; */
+}
+
+.features-text{
+    /* border: green solid 1px; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 50vh;
+    width: 60vw;    
+}
+
