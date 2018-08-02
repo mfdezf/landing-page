@@ -11,7 +11,11 @@ body{
     justify-content: space-between;
     display: flex;
     height: 10vh;
-
+    width: 100vw;
+    background-color: #eee;
+    position: fixed;
+    top: 0;
+    
 }
 
 #header-img{
@@ -25,8 +29,8 @@ body{
 }
 
 #nav-bar{
-    /* border: magenta solid 1px; */
     display: flex;
+    /* border: magenta solid 1px; */
     flex-direction: row;
     justify-content: space-evenly;
     width: 40vw;
@@ -48,7 +52,7 @@ body{
     display: flex;
     flex-direction: column;
     height: 17vh;
-    margin-top: 3vh;
+    margin-top: 10vh;
     margin-bottom: 3vh;
     justify-content: space-between;
     align-items: center;
